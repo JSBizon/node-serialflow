@@ -1,0 +1,34 @@
+{
+	"name": "serialflow",
+	"description": "This is lightweight library for serial execution of functions. The main goal of this create engine of middlewares like connect.",
+	"version": "0.1.0",
+	"keywords": [
+		"flow-control",
+		"flow", 
+		"control",
+		"serial",
+		"tool",
+		"sequence",
+		"serial execution",
+		"sequential",
+		"util"
+	],
+	"devDependencies" : {
+		"expresso" : ">=0.7.x",
+		"jslint" : "*"
+	},
+	"author": "Dmitry Nizovtsev <dmitryp3@gmail.com> (https://github.com/JSBizon)",
+	"contributors": [
+		{ "name": "Dmitry Nizovtsev", "email": "dmitryp3@gmail.com" }
+	],
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/JSBizon/node-serialflow.git"
+	},
+	"homepage": "https://github.com/JSBizon/node-serialflow",
+	"engines": { "node": "*" },
+	"licenses": [ {
+		"type": "MIT",
+		"url" : "http://github.com/JSBizon/node-serialflow/raw/master/LICENSE"
+	}
+}
